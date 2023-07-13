@@ -39,10 +39,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/VS%20-282C34?logo=visual-studio&logoColor=#9932cc" alt="Visual Studio logo" title="Visual Studio " height="25" /></span>
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
+<span><img src="https://img.shields.io/badge/PHP%20-282C34?logo=PHP&logoColor=#9932cc" alt="PHP logo" title="PHP" height="25" /></span>
+&nbsp;
+<span><img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL server logo" title="SQL server" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
